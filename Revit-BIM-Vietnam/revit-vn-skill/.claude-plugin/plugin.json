@@ -1,0 +1,5 @@
+{
+  "name": "revit-vn-skill",
+  "version": "0.1.0",
+  "description": "Skill dựng mô hình Revit theo quy trình BIM, thư viện vật liệu/family và tiêu chuẩn TCVN, QCVN của Việt Nam."
+}
