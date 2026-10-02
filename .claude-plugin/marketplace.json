@@ -1,0 +1,14 @@
+{
+  "name": "revit-bim-vietnam",
+  "owner": {
+    "name": "Revit BIM Vietnam"
+  },
+  "plugins": [
+    {
+      "name": "revit-vn-skill",
+      "source": "./Revit-BIM-Vietnam/revit-vn-skill",
+      "description": "Quy trình dựng mô hình Revit, thư viện vật liệu, family và tiêu chuẩn TCVN/QCVN cho công trình Việt Nam.",
+      "version": "0.1.0"
+    }
+  ]
+}
